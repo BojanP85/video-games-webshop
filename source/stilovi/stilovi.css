@@ -1,0 +1,53 @@
+body {
+  padding: 50px;
+}
+
+#header_okvir {
+  padding: 0;
+  margin: auto;
+  overflow: hidden;
+  height: 370px;
+  width: 1150px;
+  background-image: url(../slike/header/header_image4.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: top center;
+  /* background-attachment: fixed; */
+}
+
+.dropdown_meni {
+  color: #FFFFFF;
+}
+
+.slike {
+  width: auto;
+  height: 200px;
+}
+
+#min_slika {
+  width: 60%;
+  margin: 15px auto;
+}
+
+div.poljeOpis {
+  width: 600px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#prijava_okvir {
+  width: 50%;
+  height: 60%;
+  border: 2px solid;
+  border-radius: 15px;
+  box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.6);
+  margin: 6% auto;
+  padding: 15px;
+}
+
+.filteri_okvir {
+  background-color: #d0d6dd;
+  border: 0.5px solid;
+  border-radius: 10px;
+}
